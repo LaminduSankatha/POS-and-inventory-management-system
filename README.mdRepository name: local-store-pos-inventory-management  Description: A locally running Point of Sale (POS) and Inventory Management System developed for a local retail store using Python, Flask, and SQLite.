@@ -1,0 +1,83 @@
+# Local Store POS & Inventory Management System
+
+A locally running Point of Sale (POS) and Inventory Management System developed to help a local retail store manage daily sales, billing, and inventory efficiently.
+
+## Project Overview
+
+This project was developed to simplify daily retail operations by providing a centralized platform for managing products, processing sales, tracking inventory, and monitoring business performance.
+
+The system features a simple and user-friendly interface designed for practical use in a local retail environment.
+
+## Features
+
+- **Point of Sale (POS):** Create bills and process sales efficiently.
+- **Product Management:** Add, update, and manage products, prices, stock quantities, and categories.
+- **Inventory Management:** Track stock levels and automatically deduct inventory after sales.
+- **Dashboard:** View daily sales, number of bills, items sold, and estimated profit.
+- **Sales History:** Review previous transactions.
+- **Reports:** Access sales and business performance information.
+- **Stock Alerts:** Identify low-stock and out-of-stock products.
+- **Store Settings:** Configure store information and receipt details.
+- **Database Backup:** Create backups to help protect business data.
+
+## Technologies Used
+
+- Python
+- Flask
+- SQLite
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+## Screenshots
+
+### Dashboard
+![Dashboard Screenshot](screenshots/dashboard.png)
+
+### Settings
+![Settings Screenshot](screenshots/settings.png)
+
+## Installation and Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/local-store-pos-inventory-management.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd local-store-pos-inventory-management
+   ```
+
+3. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run the application:
+
+   ```bash
+   python app.py
+   ```
+
+5. Open your browser and visit:
+
+   ```text
+   http://127.0.0.1:5000
+   ```
+
+## Project Status
+
+Completed — developed and tested as a locally running application.
+
+## Author
+
+Developed by **Lamindu Sankatha**
+
+## License
+
+This project is available for educational and portfolio purposes.
